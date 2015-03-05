@@ -1,3 +1,6 @@
+package com.impatient.pgs;
+
+import com.impatient.pgs.Chapter1;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

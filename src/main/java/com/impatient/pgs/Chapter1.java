@@ -1,3 +1,5 @@
+package com.impatient.pgs;
+
 import java.io.File;
 import java.io.FileFilter;
 import java.util.Arrays;
